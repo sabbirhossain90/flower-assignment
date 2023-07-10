@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.banner-container{
+    display: flex;
+    height: 500px;
+     background: rgba(229, 84, 115, 0.10);;
+     justify-content:space-evenly;
+     align-items: center;
+     padding-top: 50px;
+     
+     
+}
+.banner-img{
+    
+}
+.banner-section{
+    max-width: 400px;
+    margin-left: 200px;
+    padding: 40px, 20px;
+}
+.banner-title{
+    color: #272727;
+font-family: Lato;
+font-size: 50px;
+font-style: normal;
+font-weight:bolder;
+
+
+}
+.primary-button{
+    padding: 10px;
+    height: 45px;
+    width: 130px;
+    margin-top: 15px;
+    border-radius: 8px;
+background: #E55473;
+border: none;
+}
+.banner-discib{
+    margin-top: 15px;
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+
+
+line-height: 30px;
+}
+

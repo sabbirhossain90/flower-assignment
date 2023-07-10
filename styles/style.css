@@ -40,5 +40,79 @@ line-height: 30px;
 }
 .flower-container-details{
     text-align: center;
+
+}
+.flower-discrib{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.flower-img{
+    display: flex;
+    width: 50%;
     
+    gap: 20px;
+    padding: 60px 40px 0px 40px;
+    
+}
+.flower-img1{
+    border-radius: 220px 230px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 90px 40px 0px 45px;
+text-align: center;
+display: flex;
+align-items: center;
+}
+.flower-img2{
+    border-radius: 220px 230px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 90px 40px 0px 45px;
+
+display: flex;
+align-items: center;
+}
+.flower-img3{
+    border-radius: 220px 230px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 90px 40px 0px 45px;
+text-align: center;
+display: flex;
+align-items: center;
+}
+.support-section{
+    display: flex;
+    justify-content:space-evenly;
+    height: 230px;
+    width:60%;
+    margin: auto;
+    
+    align-items: center;
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+    
+}
+.support-section-discrib{
+    margin-top: 15px;
+    color: rgba(39, 39, 39, 0.80);
+
+font-size: 18px;
+
+line-height: 35px;
+
+
+}
+.support-section-icon{
+        align-items: center;
+        width: auto;
+        justify-content: center;
+        padding-left: 70px;
+}
+.support-section-icon2{
+    padding-left: 15px;
+}
+.section{
+    padding: 100px;
 }

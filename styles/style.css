@@ -38,10 +38,10 @@
     background: #E55473;
     border: none;
     color: white;
+    font-size: 20px;
 }
-
 .flower-container{
-    padding-top: 178px;
+    padding-top: 140px;
 }
 .flower-container-details{
     text-align: center;
@@ -52,7 +52,6 @@
     font-weight: 800;
     margin-bottom: 24px;
 }
-
 .flower-discrib{
     color: rgba(39, 39, 39, 0.60);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -69,6 +68,7 @@
     gap: 24px;
     margin: auto;
     justify-content: center;
+    margin-top: 100px;
 }
 .flower-img-b1{
     border-radius: 300px 300px 0px 0px;
@@ -132,10 +132,10 @@
     line-height: 35px;
 }
 .support-section-icon{
-     align-items: center;
-     width: auto;
-     justify-content: center;
-     padding-left: 70px;
+    align-items: center;
+    width: auto;
+    justify-content: center;
+    padding-left: 70px;
 }
 .support-section-icon2{
     padding-left: 15px;
@@ -144,7 +144,7 @@
     display: flex;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    height: 620px;
+    height: 500px;
     width:100%;
     justify-content:space-evenly;
     align-items: center;
@@ -172,9 +172,12 @@
     border: none;
     color: white;
     margin-left: 130px;
+    font-size: 20px;
 }
 .banner-container3{
-    padding-top: 178px;
+    padding-top: 150px;
+    height: 500px;
+    padding-bottom:150px;
 }
 .banner-container3-details{
     text-align: center;
@@ -203,3 +206,52 @@
     margin: auto;
     justify-content: center;
     padding-bottom: 150px}
+.search-update-banner-container{
+    height: 300px;
+    width:75%;
+    margin: auto;
+    margin-top: 70px;
+    align-items: center;
+    border-radius: 8px;
+    background-image: url(./Rectangle\ 9.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    }
+.search-update-banner-section{
+    text-align: center;
+    align-items: center;
+    justify-content: center;}
+.search-update-banner-title{
+    color: #272727;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 15px; }
+.search-update-banner-discrib{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 15px; }
+.input{
+    height: 64px;
+    width: 700px;
+    border-radius: 8px;
+    background-color: #fff;
+    }
+.btn2{
+    padding: 20px 40px;
+    margin-top: 15px;
+    font-weight: bolder;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: white;
+    font-size: 20px;
+}

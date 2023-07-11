@@ -69,11 +69,12 @@
 }
 .flower-img{
     display: flex;
-    width: 100%;
+    width:85%;
     gap: 24px;
     margin: auto;
     justify-content: center;
     margin-top: 100px;
+    
 }
 .flower-img-b1{
     border-radius: 300px 300px 0px 0px;
@@ -206,7 +207,7 @@
 }
 .banner-container-img-section{
     display: flex;
-    width: 100%;
+    width: 85%;
     gap: 24px;
     margin: auto;
     justify-content: center;

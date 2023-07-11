@@ -4,9 +4,9 @@
 
 }
 .banner-container{
-    padding: 50px 30px 0px 150px;
+    padding: 50px 30px 0px 190px;
     display: flex;
-
+    height: 820px;
     align-items: center;
     background-color: #E554731A;
     justify-content:space-evenly;
@@ -39,6 +39,11 @@
     border: none;
     color: white;
     font-size: 20px;
+}
+.banner-flower-img1{
+    width: 635px;
+    margin-right: 400px ;
+    height: 820px;
 }
 .flower-container{
     padding-top: 140px;
@@ -153,7 +158,7 @@
 .banner-container2-details{
     max-width: 500px;
     margin: auto;
-    padding-left: 300px;
+    padding-left: 200px;
 }
 .banner-cointainer-tile{
     font-size: 40px;
@@ -207,7 +212,7 @@
     justify-content: center;
     padding-bottom: 150px}
 .search-update-banner-container{
-    height: 300px;
+    height: 450px;
     width:75%;
     margin: auto;
     margin-top: 70px;
@@ -254,9 +259,8 @@
     border: none;
     color: white;
     font-size: 20px;
-}
-
-    
+    margin-left: 10px;
+}  
 .footer-container{
     
     height:500px;
@@ -264,9 +268,7 @@
     margin: auto;
     margin-top: 70px;
     align-items: center;
-    
     background: #111010;; 
-
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -277,39 +279,38 @@
 }
 .flower-colour{
     color: #E55473;
-font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: 48px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
 }
 .footer-container-title{
     color:white;
-font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: 48px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
 }
 .footer-container-describ{
     color: rgba(255, 255, 255, 0.90);
-text-align: center;
-font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px;
-width: 70%;
-margin: auto;
-margin-top: 25px;
-margin-bottom: 25px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 70%;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 .footer-end{
     color: rgba(255, 255, 255, 0.40);
-text-align: center;
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: 16px;
-
-font-weight: 400;
-line-height: normal;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
 }
